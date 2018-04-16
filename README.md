@@ -20,3 +20,4 @@ The above code with header tags can make styling easier.
 On forms, the submit button refreshes the page, unless you tell it to not.
 Good to check git status before committing in case your cat sits on your keyboard and deleted half your code. 
 Also good to use informative git messages
+putting strings in `` lets you put variables in there in {}

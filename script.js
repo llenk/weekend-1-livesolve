@@ -28,4 +28,11 @@ function addEmployee() {
     );
     //clear input fields
     $('input').val('');
+
+    // add to DOM
+    $('#out-employees').append(`<p>${employee.firstName}</p>`);
+}
+
+function calculateTotalMonthlyCost() {
+    +
 }
